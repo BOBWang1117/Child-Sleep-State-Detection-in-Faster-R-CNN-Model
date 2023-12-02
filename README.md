@@ -84,5 +84,5 @@ Method:
 
 1. Predict annotation:
 
-   ![predict annotation](./figure/predict annotation.png)
+   ![predict annotation](./figure/predict_annotation.png)
 
