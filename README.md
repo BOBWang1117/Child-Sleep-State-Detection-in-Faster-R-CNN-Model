@@ -4,7 +4,7 @@
 
 >  Team:
 >
->  [@Xue Zhang]()
+>  [@Xue Zhang](https://github.com/zhangxue0111)
 >
 >  [@Hongbo Wang](https://github.com/BOBWang1117)
 >
@@ -36,11 +36,11 @@
 
 ## **Install package:**
 
-- torch: 1.13.1
-- tdmq: 4.65.0
-- pandas: 1.5.3
-- numpy: 1.23.5
-- matplotlib: 3.7.1
+- torch: 2.1.0
+- pandas: 2.0.3
+- numpy: 1.24.3
+- tqdm: 4.65.0
+- faster_rcnn: 4.65.0
 
 
 
@@ -51,22 +51,43 @@ Method:
 
 - Download Anaconda and necessary environment
 - Download the [datasets](https://www.kaggle.com/competitions/instacart-market-basket-analysis/data)
-- Run Data_Processing.ipynb file (First)
-- Run Product_Recommendation_Model.ipynb file (Second)
+- Run faster-rcnn-final.ipynb file
 
-(First): need data professing first
+
 
 
 ## **Example:**
 
-1. The screenshot of Data_Processing.ipynb file.
+1. The screenshot of Model Architecture.
 
-   ![Data processing](./picture/R-CNN.png)
-
-   
+   ![Model](./figure/R-CNN.png)
 
    
 
+   2. The result:
+
+      ![no_anotation](./figure/table.png)
+   
+      
+   
+   3. No anotation:
+   
+      ![no_anotation](./figure/no_anotation.png)
+   
+      
+   
+   4. Annotation:
+   
+      ![no_anotation](./figure/annotation2.png)
+   
+      
+   
+   5. Predict annotation:
+   
+      ![no_anotation](./figure/predict annotation.png)
+   
+   
+   
    
 
 
