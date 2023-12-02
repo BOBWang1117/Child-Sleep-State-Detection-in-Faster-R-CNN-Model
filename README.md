@@ -61,7 +61,7 @@ Method:
 
 1. The screenshot of Data_Processing.ipynb file.
 
-   ![Data processing](./picture/data_processing.JPG)
+   ![Data processing](./picture/R-CNN.png)
 
    
 
