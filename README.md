@@ -78,11 +78,11 @@ Method:
 
 1. Annotation:
 
-   ![no_anotation](./figure/annotation2.png)
+   ![anotation](./figure/annotation2.png)
 
    
 
 1. Predict annotation:
 
-   ![no_anotation](./figure/predict annotation.png)
+   ![predict annotation](./figure/predict annotation.png)
 
