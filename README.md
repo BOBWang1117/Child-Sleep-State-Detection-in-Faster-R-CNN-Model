@@ -64,31 +64,25 @@ Method:
 
    
 
-   2. The result:
+1. The result:
 
-      ![no_anotation](./figure/table.png)
-   
-      
-   
-   3. No anotation:
-   
-      ![no_anotation](./figure/no_anotation.png)
-   
-      
-   
-   4. Annotation:
-   
-      ![no_anotation](./figure/annotation2.png)
-   
-      
-   
-   5. Predict annotation:
-   
-      ![no_anotation](./figure/predict annotation.png)
-   
-   
-   
+   ![no_anotation](./figure/table.png)
+
    
 
+1. No annotation:
 
+   ![no_anotation](./figure/no_anotation.png)
+
+   
+
+1. Annotation:
+
+   ![no_anotation](./figure/annotation2.png)
+
+   
+
+1. Predict annotation:
+
+   ![no_anotation](./figure/predict annotation.png)
 
