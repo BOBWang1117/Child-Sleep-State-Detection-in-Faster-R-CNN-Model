@@ -1,4 +1,4 @@
-# **CS584_Machine-Learning_Project**
+# **CS584_Deep-Learning_Project**
 
 -----
 
