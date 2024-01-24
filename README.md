@@ -1,4 +1,4 @@
-# **CS584_Deep-Learning_Project**
+# **CS577_Deep-Learning_Project**
 
 -----
 
